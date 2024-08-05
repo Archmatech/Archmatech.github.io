@@ -5,7 +5,6 @@ permalink: /Schedule/
 ---
 
 ## Thursday, March 20, 2025
-
 ### (1 keynote address)
 
 8:30 AM:  Coffee, tea, and conversation
@@ -21,7 +20,6 @@ permalink: /Schedule/
 8:00 PM - Welcome and Networking Reception
 
 ## Friday, March 21, 2025
-
 ### (2 keynotes - morning/evening)
 
 8:30 AM:  Coffee, tea, and conversation
@@ -41,7 +39,6 @@ permalink: /Schedule/
 6:30 PM - Networking Event
 
 ## Saturday, March 22, 2025
-
 ### (1 keynote address) 
 
 8:30 AM:  Coffee, tea, and conversation
