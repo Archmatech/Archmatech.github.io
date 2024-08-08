@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Registration
+title: REGISTRATION
 permalink: /Registration/
 
 comment_issue_id: 1
