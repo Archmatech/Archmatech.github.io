@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: ARCHITECTURAL MATERIAL TECHNOLOGY COMMONS
+title: ARCHITECTURAL MATERIAL TECH COMMONS
 comment_issue_id: 1
 
 ---
