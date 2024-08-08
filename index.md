@@ -10,9 +10,9 @@ layout: home
 comment_issue_id: 1
 
 ---
-# ARCHITECTURAL MATERIAL TECHNOLOGY COMMONS
 ![Banner](/assets/20240723904_GIF720x204.gif)
 
+# ARCHITECTURAL MATERIAL TECHNOLOGY COMMONS
 
 
 ### Radical material responsibility through novel, regenerative, resilient, indigenous, and traditional materials with contemporary tools and innovations.
