@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SCHEDULE
+title: Schedule
 permalink: /Schedule/
 ---
 
@@ -13,13 +13,13 @@ permalink: /Schedule/
 
     13:30 - Opening Address
 
-    14:00 AM - Keynote Address
+    14:00 AM - 1st Peer Reviewed
 
-    15:00 - 1st Peer Reviewed 
+    15:00 - 2nd Peer Reviewed 
 
-    15:20 - 2nd Peer Reviewed 
+    15:20 - 3rd Peer Reviewed 
 
-    15:40 - 3rd peer reviewed
+    15:40 - Keynote Address
 
     16:00 - Panel Discussion 
 
