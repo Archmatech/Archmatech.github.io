@@ -13,7 +13,6 @@ comment_issue_id: 1
 
 ![Banner](/assets/20240723904_GIF720x204.gif)
 
-# Architectural Material Technologies Commons
 
 ### Radical material responsibility through novel, regenerative, resilient, indigenous, and traditional materials with contemporary tools and innovations.
 
