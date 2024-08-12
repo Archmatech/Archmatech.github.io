@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CALL FOR ENTRY
-permalink: /call for entry/
+permalink: /callforentry/
 ---
 
 ##Call for entry page to soon be announced 
