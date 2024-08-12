@@ -32,8 +32,3 @@ Key Topics:
 Organized by R. Spencer Steenblik, Assistant Professor of Comprehensive Design at Indiana University Bloomington, in collaboration with the American Bamboo Society.
 
 
-
-
-[   <iframe width="736" height="414" src="https://www.youtube.com/embed/QIHisIykzC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  ]: #
-
