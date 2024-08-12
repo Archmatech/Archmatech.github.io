@@ -29,9 +29,9 @@ permalink: /Schedule/
 
     17:40 - 3rd Peer Reviewed
 
-    18:00 - Keynote Address anchor 
+    18:30 - Keynote Address anchor 
 
-    19:00 - Panel Discussion
+    19:30 - Panel Discussion
 
     20:10 - Welcome and Networking Reception
 
