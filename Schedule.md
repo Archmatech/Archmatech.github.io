@@ -103,7 +103,7 @@ permalink: /Schedule/
 
     16:30 - City of Columbus Architecture tour 
 
-
+# Workshop Information to be released in the near future!!
 
 
 
