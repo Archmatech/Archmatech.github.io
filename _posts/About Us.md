@@ -1,16 +1,5 @@
----
-layout: page
-title: PARTICIPATE
-permalink: /Registration/
+R. Spencer Steenblik, has spend the last 20 years helping people optimize their places to be amazing and inspiring. He is a registered architect(New York), has built, taught, published, exhibited, and curated globally. His work\* negotiates vernacular and advanced digital processes through an equitable, interdisciplinary, sustainable and naturally inspired approach, creating urban intricacy and inspiring, interactive spaces. He’s spoken globally at universities\* such as MIT, Tongji University, Yonsei University, etc. His work is published prolifically\*.
 
-comment_issue_id: 1
----
-![Banner](/assets/20240723904_GIF720x204.gif)
+Steenblik has taken on academic roles\* at Indiana University, Bloomington, Pratt Institute, NJIT, CUNY, School of Public Architecture at Kean & Wenzhou-Kean University in China; and workshops at Tongji University, Shanghai Institute of Art, and Haikou University of Economics; and as architectural critic\* globally in an effort to provide mentorship to young designers through teaching both graduate and undergraduate students.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeiW0f4fGNI66muKLTHG-ZIVg0X4QZVuNVLNPGd3Hsar2_PUA/viewform?embedded=true" width="640" height="2735" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-[comment]: <> (please refer to _includes/projects_.html to add your photo)
-
-
-
-[comment]: <> (please refer to _includes/projects_.html to add your photo)
+His practice, phi architecture φ (f. 2004), (clients include: Google, Huayi Space, Venture Anyway, BYU and the Fictionist band) focuses on designing across scales. His influence, also felt at design offices such as Asymptote Architecture, Pelli Clarke Pelli (co-founder, innovation platform called REACH). He holds a masters from SCI-Arc (Southern California Institute of Architecture).
