@@ -1,5 +1,5 @@
 ---
-
+layout: default 
 
 R. Spencer Steenblik, has spend the last 20 years helping people optimize their places to be amazing and inspiring. He is a registered architect(New York), has built, taught, published, exhibited, and curated globally. His work\* negotiates vernacular and advanced digital processes through an equitable, interdisciplinary, sustainable and naturally inspired approach, creating urban intricacy and inspiring, interactive spaces. He’s spoken globally at universities\* such as MIT, Tongji University, Yonsei University, etc. His work is published prolifically\*.
 
