@@ -7,7 +7,7 @@ permalink: /Schedule/
 
 ![Banner](/assets/20240723904_GIF720x204.gif)
 
-## Thursday, March 20, 2025
+## Thursday, March 27, 2025
 
     13:00 - Registration / Coffee and tea
 
@@ -35,7 +35,7 @@ permalink: /Schedule/
 
     20:10 - Welcome and Networking Reception
 
-## Friday, March 21, 2025
+## Friday, March 28, 2025
 
     8:30 -  Coffee, Tea, and Conversation
 
@@ -75,7 +75,7 @@ permalink: /Schedule/
 
     19:00 - Panel Discussion
 
-## Saturday, March 22, 2025
+## Saturday, March 29, 2025
 
     8:30 - Coffee, Tea, and Conversation
 
