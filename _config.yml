@@ -58,7 +58,7 @@ minima:
 header_pages:  
   - Schedule.md
   - Registration.md
-  - CALLFORENTRY.md
+ 
 
 plugins:
  - jekyll-feed
