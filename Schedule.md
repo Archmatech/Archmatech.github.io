@@ -3,10 +3,10 @@ layout: page
 title: Schedule
 permalink: /Schedule/
 ---
-
-
-
 ![Banner](assets\20240820950_GIF720x204.gif)
+
+
+
 ## Thursday, March 27, 2025
 
     13:00 - Registration / Coffee and tea
