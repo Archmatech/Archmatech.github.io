@@ -5,7 +5,7 @@ permalink: /Schedule/
 ---
 
 
-![Banner](assets\20240820950_GIF720x204.gif)
+
 
 ## Thursday, March 27, 2025
 
