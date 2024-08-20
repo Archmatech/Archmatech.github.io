@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 permalink: /Schedule/
 ---
-![Banner](assets\20240820950_GIF720x204.gif)
+![Banner3](assets\20240820950_GIF720x204.gif)
 
 
 
