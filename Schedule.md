@@ -29,7 +29,7 @@ permalink: /Schedule/
 
     17:40 - 3rd Peer Reviewed
 
-    18:30 - Keynote Address anchor 
+    18:30 - Keynote - Marlon Blackwell (Tentative) 
 
     19:30 - Panel Discussion
 
